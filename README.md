@@ -10,7 +10,7 @@ unibas_turtle is included in the material of the courses (in italian)<br>
   A.Y. 2018/2019<br>
   University of Basilicata (Italy)
   
-  <img src="images/visione-e-percezione-unibas.jpg" width="300" />
+  <img src="https://dbloisi.github.io/assets/images/logo.png"/>
   
 unibas_turtle is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
