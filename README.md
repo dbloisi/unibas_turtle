@@ -7,7 +7,7 @@ The files in unibas_turtle contain code based on ROS Practicing Python with Turt
 
 This code is part of the material of the course [Computer Vision and Machine Perception](http://web.unibas.it/bloisi/corsi/visione-e-percezione.html) - University of Basilicata (Italy)
 
-** unibas_turtle is distributed in the hope that it will be useful,
+**unibas_turtle is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
  
