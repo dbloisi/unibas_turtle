@@ -10,9 +10,9 @@ def move():
     
     #Receiveing the user's input
     print("Let's move your robot")
-    speed = input("Input your speed:")
-    distance = input("Type your distance:")
-    isForward = input("Foward?: ")#True or False
+    speed = float(input("Input your speed:"))
+    distance = float(input("Type your distance:"))
+    isForward = int(input("Foward (1 or 0)?: "))#True or False
     
     #Checking if the movement is forward or backwards
     if(isForward):

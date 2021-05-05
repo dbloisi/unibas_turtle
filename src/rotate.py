@@ -11,9 +11,9 @@ def rotate():
 
     # Receiveing the user's input
     print("Let's rotate your robot")
-    speed = input("Input your speed (degrees/sec):")
-    angle = input("Type your distance (degrees):")
-    clockwise = input("Clockwise?: ") #True or false
+    speed = float(input("Input your speed (degrees/sec):"))
+    angle = float(input("Type your distance (degrees):"))
+    clockwise = int(input("Clockwise (1 or 0)?:")) #True or false
 
     #Converting from angles to radians
     angular_speed = speed*2*PI/360
